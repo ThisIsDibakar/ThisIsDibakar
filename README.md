@@ -100,11 +100,11 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 
 ## 🎮 Fun Facts
 
-- ⚡ I can debug code faster with rubber duck debugging than without it
-- 🎯 My commit messages tell stories
-- 🔍 I've probably spent more time naming variables than actually writing code
-- ☕ My code quality is directly proportional to my coffee intake
-- 🎨 I believe clean code is an art form
+- ⚡ I can debug code faster with rubber duck debugging than without it.
+- 🎯 My commit messages tell stories.
+- 🔍 I've probably spent more time naming variables than actually writing code.
+- ☕ My code quality is directly proportional to my coffee intake.
+- 🎨 I believe clean code is an art form.
 
 ---
 
