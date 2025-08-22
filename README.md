@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Dibakar Das
+# 👋 Hello, World! This is Dibakar
 
 > _"Code is poetry written in logic, and I'm here to compose symphonies."_
 
@@ -8,12 +8,16 @@ I'm a passionate developer who believes that every line of code is an opportunit
 
 When I'm not coding, you'll find me exploring new frameworks, contributing to open source, or diving deep into documentation (yes, I'm one of those people who actually enjoys reading docs!). I believe that the best code is not just functional, but elegant, maintainable, and tells a story.
 
+---
+
 ## 💻 What I Do
 
 - **Build First, Ask Questions Later**: I love diving into projects and learning by doing.
 - **Problem Solver**: Complex challenges are my favorite puzzles to solve.
 - **Continuous Learner**: Every day is an opportunity to learn something new.
 - **Open Source Enthusiast**: Contributing to the community that has given me so much.
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -41,6 +45,8 @@ When I'm not coding, you'll find me exploring new frameworks, contributing to op
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -51,22 +57,7 @@ When I'm not coding, you'll find me exploring new frameworks, contributing to op
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🌟 Featured Projects
-
-### 🎯 Project One
-
-**[Repository Name](https://github.com/yourusername/repo)**
-A brief description of what this project does and why it's awesome. Built with [Tech Stack].
-
-### 🔧 Project Two
-
-**[Repository Name](https://github.com/yourusername/repo)**
-Another cool project that showcases your skills. This one demonstrates [specific skills/technologies].
-
-### 💡 Project Three
-
-**[Repository Name](https://github.com/yourusername/repo)**
-Your innovative solution to [problem it solves]. Features include [key features].
+---
 
 ## 🎯 Current Focus
 
@@ -74,6 +65,8 @@ Your innovative solution to [problem it solves]. Features include [key features]
 - 🌱 Learning: **[Technologies or concepts you're currently exploring]**
 - 👯 Looking to collaborate on: **Open source projects that make a difference**
 - 💬 Ask me about: **Anything tech-related! I love discussing code architecture, best practices, and new technologies**
+
+---
 
 ## 📈 Coding Journey
 
@@ -87,6 +80,8 @@ const myJourney = {
 };
 ```
 
+---
+
 ## 🤝 Let's Connect!
 
 I'm always excited to connect with fellow developers, collaborate on interesting projects, or just chat about technology!
@@ -95,9 +90,13 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Luxifer_OG)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dibvibe.dev@gmail.com?subject=Hello%20from%20GitHub)
 
+---
+
 ## 💭 Random Dev Quote
 
 > _"The only way to learn a new programming language is by writing programs in it."_ - Dennis Ritchie
+
+---
 
 ## 🎮 Fun Facts
 
