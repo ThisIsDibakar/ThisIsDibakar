@@ -1,4 +1,4 @@
-# 👋 Hello, World! This is Dibakar
+# 👋 Hello, World! This is Dibakar ...
 
 > _"Code is poetry written in logic, and I'm here to compose symphonies."_
 
