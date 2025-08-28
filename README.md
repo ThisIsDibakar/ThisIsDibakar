@@ -50,7 +50,7 @@ When I'm not coding, you'll find me exploring new frameworks, contributing to op
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisIsDibakar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisIsDibakar&show_icons=true&theme=radical&custom_title=ThisIsDibakar" alt="GitHub Stats" />
 </div>
 
 <div align="center">
