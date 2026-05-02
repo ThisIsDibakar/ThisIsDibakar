@@ -2,10 +2,8 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-
-  workflow_dispatch: # Allow manual trigger
-
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -15,16 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
-    # ✅ FIX 1: This was MISSING — grants write permission to push to output branch
     permissions:
       contents: write
 
     steps:
-      # ✅ FIX 2: Updated from v3 → v4 (fixes Node.js 20 deprecation)
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -36,7 +31,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ✅ FIX 3: Updated from v3 → v4 (fixes Node.js 20 deprecation)
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v4
         with:

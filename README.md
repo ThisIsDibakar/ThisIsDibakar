@@ -1,6 +1,8 @@
 <!-- ============== HEADER BANNER ============== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dibakar%20Das&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20Django%20%7C%20AI%20Explorer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dibakar%20Das&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20Python%20%2B%20Django%20%7C%20AI%20Explorer&descSize=18&descAlignY=55&descAlign=50)
+
 </div>
 
 <!-- ============== TYPING ANIMATION ============== -->
@@ -171,14 +173,22 @@ Dibakar().say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisIsDibakar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsDibakar&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="48%" />
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThisIsDibakar&theme=tokyonight)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThisIsDibakar&theme=tokyonight)
+
 </div>
 
-<br/>
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThisIsDibakar&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsDibakar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" width="40%" />
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=ThisIsDibakar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B)
+
 </div>
 
 <br/>
@@ -189,9 +199,9 @@ Dibakar().say_hi()
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThisIsDibakar/ThisIsDibakar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThisIsDibakar/ThisIsDibakar/output/ocean.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThisIsDibakar/ThisIsDibakar/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ThisIsDibakar/ThisIsDibakar/output/github-snake-dark.svg" width="100%" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ThisIsDibakar/ThisIsDibakar/output/github-snake.svg" width="100%" />
   </picture>
 </div>
 
@@ -199,12 +209,14 @@ Dibakar().say_hi()
 
 <!-- ============== QUOTE ============== -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%27s%20not%20what%20AI%20can%20do%20for%20you%2C%20it%27s%20all%20about%20what%20you%20can%20do%20with%20the%20help%20of%20AI.&author=Dibakar%20Das" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%27s%20not%20what%20AI%20can%20do%20for%20you%2C%20it%27s%20all%20about%20what%20you%20can%20do%20with%20the%20help%20of%20AI&author=Dibakar%20Das" />
 </div>
 
 <br/>
 
 <!-- ============== FOOTER ============== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
 </div>
